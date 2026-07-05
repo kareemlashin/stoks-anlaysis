@@ -1,3 +1,19 @@
+# 🔄 stoks-analysis — Workflow
+
+> **⭐ Workflow كامل:** [`_مشترك/WORKFLOW-daily-weekly.md`](_مشترك/WORKFLOW-daily-weekly.md)  
+> **⚡ Quick ref:** [`_مشترك/WORKFLOW-QUICK.md`](_مشترك/WORKFLOW-QUICK.md)
+
+## النظام — 4 طبقات
+
+| Layer | متى | الهدف |
+|---|---|---|
+| 📅 **L1 Weekly** | خميس | **تجهيز شراء** — 200 → Buy List |
+| 📆 **L2 Daily** | كل يوم | **متابعة** — HOLD/EXIT/ADD |
+| 🔬 **L3 Deep** | عند الحاجة | تحليل 16 مرحلة |
+| 💼 **L4 Portfolio** | دائم | [`محفظتي.md`](_مشترك/محفظتي.md) |
+
+---
+
 # 📁 EAC — أرشيف التحليلات بالتاريخ
 
 > تنظيم كل ملفات تحليل **EAC (المصرية العربية)** حسب تاريخ الجلسة/الإنشاء.
