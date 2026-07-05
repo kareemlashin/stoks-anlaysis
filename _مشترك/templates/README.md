@@ -55,4 +55,16 @@
 Input template (أنت)  →  Analysis  →  Output template (أنا)
 ```
 
+### 🏆 Pro Analysis (Deep / Institutional)
+
+| Template | متى |
+|---|---|
+| [`../pro/TEMPLATE-investment-thesis.md`](../pro/TEMPLATE-investment-thesis.md) | قبل أي صفقة جديدة |
+| [`../pro/TEMPLATE-pre-mortem.md`](../pro/TEMPLATE-pre-mortem.md) | قبل أي صفقة / AGM |
+| [`../pro/TEMPLATE-deep-رؤية-شاملة.md`](../pro/TEMPLATE-deep-رؤية-شاملة.md) | مخرج التحليل العميق |
+| [`../pro/TEMPLATE-playbook-حدث.md`](../pro/TEMPLATE-playbook-حدث.md) | يوم AGM / نتائج |
+| [`../pro/MASTER-CHECKLIST-تحليل-احترافي.md`](../pro/MASTER-CHECKLIST-تحليل-احترافي.md) | checklist قبل التسليم |
+
+📖 [`../pro/README.md`](../pro/README.md)
+
 📖 [`WORKFLOW-daily-weekly.md`](../WORKFLOW-daily-weekly.md)

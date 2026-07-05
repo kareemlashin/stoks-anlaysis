@@ -9,6 +9,8 @@
 
 | الملف | الوصف |
 |---|---|
+| [`pro/README.md`](pro/README.md) | **🏆 Pro Kit** — تحليل مؤسسي (thesis · pre-mortem · deep · IPS) |
+| [`WORKFLOW-IMAGE-ONLY.md`](WORKFLOW-IMAGE-ONLY.md) | **📸 صور بس** — مفيش CSV مطلوب |
 | [`templates/README.md`](templates/README.md) | **⭐ قوالب ديناميكية** Daily + Weekly |
 | [`WORKFLOW-daily-weekly.md`](WORKFLOW-daily-weekly.md) | Workflow كامل v3 |
 | [`محفظتي.md`](محفظتي.md) | L4 · مراكزك + مستويات |
@@ -18,6 +20,8 @@
 | [`بروتوكول-المتابعة-اليومية.md`](بروتوكول-المتابعة-اليومية.md) | **تعامل يومي** · HOLD/EXIT/ADD |
 | [`استاندرد-تحليل-الصور.md`](استاندرد-تحليل-الصور.md) | قراءة صور الشارتات |
 | [`weekly_scan.py`](weekly_scan.py) | فحص CSV آلي — 200 سهم |
+| [`tools/analyze.py`](tools/analyze.py) | **CLI** — PnL · Wyckoff · backtest · macro · fetch · brief |
+| [`pro/examples/EAC/`](pro/examples/EAC/README.md) | **أمثلة حية** — كل قوالب Pro Kit مملوءة لـ EAC |
 
 ---
 

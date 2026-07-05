@@ -1,47 +1,50 @@
-# 📥 INPUT — متابعة يومية
+# 📥 INPUT — متابعة يومية (صور بس)
 
-> **انسخ → عبّي → ابعت** — القالب ده للمدخلات بس
+> **ابعت صورة Daily — مش محتاج CSV ولا أرقام**
 
 ---
 
-## رسالة سريعة
+## الطريقة الأسهل ✅
 
 ```
 📆 daily
+```
 
-{{CODE}}: close={{CLOSE}} · high={{HIGH}} · low={{LOW}} · vol={{VOL}}
-[{{CODE_2}}: close= · vol=]
++ **attach:** screenshot شارت **Daily** لكل سهم
 
-حدث: [لا / {{EVENT}}]
-سؤال: [optional]
+**Optional — سطر واحد:**
+```
+ملاحظة: [AGM / خبر / أي حاجة]
 ```
 
 ---
 
-## جدول (لو أكتر من سهم)
+## لو عندك MTF (optional — دقة أعلى)
 
-| الكود | Close | High | Low | Vol | حدث |
-|---|---|---|---|---|---|
-| {{CODE}} | | | | | |
-| {{CODE_2}} | | | | | |
+```
+📆 daily + MTF
+```
+
++ `EAC_D.png` ← **إلزامي**
++ `EAC_4H.png` · `EAC_W.png` ← optional
 
 ---
 
-## مرفقات (optional)
+## ❌ مش مطلوب
 
-- [ ] صورة Daily: `charts/{{CODE}}_D.png`
-- [ ] CSV: `data/{{CODE}}_D.csv`
+- CSV
+- close/vol مكتوبة يدوي
+- ملفات Excel
+- export TradingView
+
+> AI يستخرج O · H · L · C · Vol · المؤشرات من الصورة
 
 ---
 
 ## مرجع المحفظة
 
-> من [`محفظتي.md`](../محفظتي.md) — **مش لازم تكتبها كل يوم** إلا لو اتغيرت
-
-| الكود | Qty | Avg |
-|---|---|---|
-| {{CODE}} | {{QTY}} | {{AVG}} |
+من [`محفظتي.md`](../محفظتي.md) — **مش لازم تكتب qty/avg كل يوم**
 
 ---
 
-*Template · Input Daily · [`TEMPLATE-daily-متابعة.md`](TEMPLATE-daily-متابعة.md) ← المخرج*
+*Input Daily · Image-only · [`WORKFLOW-IMAGE-ONLY.md`](../WORKFLOW-IMAGE-ONLY.md)*

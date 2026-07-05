@@ -1,63 +1,57 @@
-# 📥 INPUT — فحص أسبوعي (تجهيز شراء)
+# 📥 INPUT — فحص أسبوعي (صور أو CSV)
 
-> **انسخ → عبّي → ابعت كل خميس** — بعد إغلاق شمعة Weekly
+> **الأسهل: صور Weekly + Daily** — CSV optional للـ `weekly_scan.py` بس
 
 ---
 
-## رسالة سريعة
+## رسالة سريعة (صور) ✅
 
 ```
 📅 weekly
-
-السوق: EGX
-الأسهم: {{COUNT}} (symbols.txt)
-الفريمات: M · W · D · 4H · 1H
-المدخلات: [CSV / صور]
-فلتر: [VCP / breakout / mean-reversion / الكل]
-Deep dive Top {{N}}: [نعم / لا]
-رأس المال sizing: {{CAPITAL}} EGP
 ```
+
++ صور **W + D** لكل سهم (أو قائمة أسهم في رسالة)
++ optional: `symbols.txt` لو عندك 200 سهم
 
 ---
 
-## هيكل المجلد (CSV)
+## رسالة سريعة (CSV — optional)
+
+```
+📅 weekly · CSV mode
+```
 
 ```
 فحص-أسبوعي/{{WEEK_DATE}}/
 ├── symbols.txt
-├── _market/EGX30.csv          ← optional
-└── data/
-    ├── {{CODE}}_M.csv
-    ├── {{CODE}}_W.csv
-    ├── {{CODE}}_D.csv
-    ├── {{CODE}}_4H.csv
-    └── {{CODE}}_1H.csv
+└── data/{{CODE}}_D.csv ...
 ```
 
-**CSV columns:** `time, open, high, low, close, volume`
+> CSV = للسcanner الآلي · **مش مطلوب** لو هتبعت صور
 
 ---
 
-## هيكل الصور (alternative)
+## هيكل الصور (preferred)
 
 ```
 فحص-أسبوعي/{{WEEK_DATE}}/charts/{{CODE}}/
-├── M.png · W.png · D.png · 4H.png · 1H.png
+├── W.png
+├── D.png
+├── 4H.png    ← optional
+└── 1H.png    ← optional
 ```
 
 ---
 
-## symbols.txt
+## symbols.txt (optional)
 
 ```
-{{CODE_1}}
-{{CODE_2}}
+COMI
+SWDY
+EAC
 ...
-# {{COUNT}} سطر
 ```
-
-📄 نموذج: [`symbols.txt.example`](symbols.txt.example)
 
 ---
 
-*Template · Input Weekly · [`TEMPLATE-weekly-فحص.md`](TEMPLATE-weekly-فحص.md) ← المخرج*
+*Input Weekly · Image-first · [`WORKFLOW-IMAGE-ONLY.md`](../WORKFLOW-IMAGE-ONLY.md)*
