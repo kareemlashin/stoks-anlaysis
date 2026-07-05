@@ -1,7 +1,7 @@
 # 📅 5 يوليو 2026 — جمعية AGM + Playbook + رسوم
 
-> **64 ملف** · 20 تحليل + 44 رسوم/سكربت  
-> السعر: **7.50–7.51** · الجمعية: **الاثنين 6 يوليو** · مركزك: **128,400 @ 7.75**
+> **65+ PNG** · 20+ تحليل · 6 سكربتات رسوم  
+> السعر: **7.38** · الجمعية: **الاثنين 6 يوليو** · مركزك: **128,400 @ 7.75**
 
 ---
 
@@ -42,6 +42,50 @@
 | [`EAC-نفسية-Mark-Douglas-2026-07-05.md`](EAC-نفسية-Mark-Douglas-2026-07-05.md) | فحص نفسية Mark Douglas |
 | [`EAC-مقارنة-القطاع-والزملاء-2026-07-05.md`](EAC-مقارنة-القطاع-والزملاء-2026-07-05.md) | مقارنة القطاع |
 | [`EAC-فهرس-السلسلة-2026-07-05.md`](EAC-فهرس-السلسلة-2026-07-05.md) | **فهرس كل الملفات** |
+
+---
+
+## 📈 رسوم @ 7.38 — مؤشرات + محترفين (جديد)
+
+| الصورة | المحتوى |
+|---|---|
+| [`EAC-738-01-خريطة-SMC-ومستويات.png`](EAC-738-01-خريطة-SMC-ومستويات.png) | SMC · FVG · Spring Zone · مستويات |
+| [`EAC-738-02-لوحة-100-اداة.png`](EAC-738-02-لوحة-100-اداة.png) | 100 أداة (8 مجموعات) |
+| [`EAC-738-03-15-محترف-مصفوفة.png`](EAC-738-03-15-محترف-مصفوفة.png) | 15 محترف — حكم كل واحد |
+| [`EAC-738-04-وايكوف-Spring.png`](EAC-738-04-وايكوف-Spring.png) | Spring vs Distribution |
+| [`EAC-738-05-MTF-متعدد-الفريمات.png`](EAC-738-05-MTF-متعدد-الفريمات.png) | MTF شهري → 1m |
+| [`EAC-738-06-38-اداة-مدفouعة.png`](EAC-738-06-38-اداة-مدفouعة.png) | 38+ منصة مدفouعة |
+| [`EAC-738-07-مؤشرات-رئيسية-تفصيل.png`](EAC-738-07-مؤشرات-رئيسية-تفصيل.png) | ADX · StochRSI · Volume · Confluence |
+| [`EAC-738-08-سيناريوهات-AGM.png`](EAC-738-08-سيناريوهات-AGM.png) | 3 سيناريوهات AGM |
+| [`EAC-738-09-PnL-والاهداف.png`](EAC-738-09-PnL-والاهداف.png) | PnL + سلm الأهداف |
+| [`EAC-738-10-مخطط-القرار.png`](EAC-738-10-مخطط-القرار.png) | Flowchart القرار |
+
+سكربت: [`generate_charts_738.py`](generate_charts_738.py)
+
+---
+
+## 🏆 رسوم PRO — كلاسيكي + محترفين (16 صورة @ 7.38)
+
+| # | الصورة | المحتوى |
+|---|---|---|
+| 01 | [`EAC-PRO-01-خريطة-كلاسيكي-شاملة-738.png`](EAC-PRO-01-خريطة-كلاسيكي-شاملة-738.png) | Master Classical Map |
+| 02 | [`EAC-PRO-02-10-نماذj-كلاسيكية-738.png`](EAC-PRO-02-10-نماذj-كلاسيكية-738.png) | 10 Chart Patterns |
+| 03 | [`EAC-PRO-03-علم-الثور-738.png`](EAC-PRO-03-علم-الثور-738.png) | Bull Flag → 13.07 |
+| 04 | [`EAC-PRO-04-شهاب-اونيل-738.png`](EAC-PRO-04-شهاب-اونيل-738.png) | O'Neil Shooting Star |
+| 05 | [`EAC-PRO-05-وايكوف-مراحل-738.png`](EAC-PRO-05-وايكوف-مراحل-738.png) | Wyckoff Phases |
+| 06 | [`EAC-PRO-06-إليott-738.png`](EAC-PRO-06-إليott-738.png) | Elliott Wave 4→5 |
+| 07 | [`EAC-PRO-07-فibo-738.png`](EAC-PRO-07-فibo-738.png) | Fibonacci Retracement |
+| 08 | [`EAC-PRO-08-جان-738.png`](EAC-PRO-08-جان-738.png) | Gann Square of 9 |
+| 09 | [`EAC-PRO-09-SMC-ICT-738.png`](EAC-PRO-09-SMC-ICT-738.png) | SMC Full Map |
+| 10 | [`EAC-PRO-10-دارvas-بrooks-738.png`](EAC-PRO-10-دارvas-بrooks-738.png) | Darvas + Brooks |
+| 11 | [`EAC-PRO-11-مؤشرات-احترافية-738.png`](EAC-PRO-11-مؤشرات-احترافية-738.png) | RSI · MACD · StochRSI |
+| 12 | [`EAC-PRO-12-15-محترف-738.png`](EAC-PRO-12-15-محترف-738.png) | 15 Trading Legends |
+| 13 | [`EAC-PRO-13-اهداف-PnL-738.png`](EAC-PRO-13-اهداف-PnL-738.png) | Targets + PnL |
+| 14 | [`EAC-PRO-14-شموع-يابانية-738.png`](EAC-PRO-14-شموع-يابانية-738.png) | Candlestick Patterns |
+| 15 | [`EAC-PRO-15-مخطط-قرar-ماستر-738.png`](EAC-PRO-15-مخطط-قرar-ماستر-738.png) | Master Decision Flow |
+| 16 | [`EAC-PRO-16-MTF-مركb-738.png`](EAC-PRO-16-MTF-مركb-738.png) | MTF Composite |
+
+سكربت: [`generate_master_professional_738.py`](generate_master_professional_738.py)
 
 ---
 
@@ -101,8 +145,9 @@
 | [`generate_wave_charts.py`](generate_wave_charts.py) | موجات إليوت |
 | [`generate_upside_charts.py`](generate_upside_charts.py) | صعود + أرباح |
 | [`generate_maker_charts.py`](generate_maker_charts.py) | رسوم الميكr |
+| [`generate_charts_738.py`](generate_charts_738.py) | **@ 7.38** — SMC · 100 أداة · 15 محترف |
 
-> تشغيل: `python3 generate_*.py` من داخل هذا المجلد (يتطلب `.venv` في المجلد الأب)
+> تشغيل: `source ../.venv/bin/activate && python3 generate_*.py` من داخل هذا المجلد
 
 ---
 
