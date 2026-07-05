@@ -14,13 +14,15 @@
 | 3 | 4 يوليو | vol ضعيف (<1M) | Wyckoff | 493K–666K | ✅ |
 | 4 | 4 يوليو | AVWAP 7.72 يرفض | Shannon | H=7.72 | ✅ |
 | 5 | 4 يوليو | فوق 7.25 | مينرفيني | L=7.45 | ✅ |
-| 6 | 5 يوليو | freeze intraday | الميكr | 7.48 flat | ✅ |
+| 6 | 5 يوليو | freeze intraday | الميكr | 7.38 flat (15M→1M) | ✅ |
+| 11 | 5 يوليو | AVWAP 7.72 رفض (×2) | Shannon | H=7.72 | ✅ |
+| 12 | 5 يوليو | Spring sweep 7.35 bounce | Wyckoff | L=7.35 C=7.38 | 🟡 pending |
 | 7 | 5 يوليو | تحت 7.50 POC | Volume Profile | C=7.48–7.50 | ✅ |
 | 8 | 5 يوليو | StochRSI oversold | Market Cipher | bounce محتمل | 🟡 pending |
 | 9 | 4 يوليو | Gate 8.14 قريب | — | **لم يحدث** | ❌ |
 | 10 | 4 يوليو | Spring 7.25 | Wyckoff | **لم يحدث** | 🟡 pending |
 
-**النتيجة 2–5 يوليو: 7/10 ✅ · 2 pending · 1 ❌**
+**النتيجة 2–5 يوليو: 9/12 ✅ · 3 pending · 1 ❌**
 
 ---
 
